@@ -8,6 +8,8 @@
 2. [Manual Isadora 3](assets/isadora-manual-es.pdf)
 3. [Foro Isadora Troikatronix](https://troikatronix.com/forum/)
 
+### proceso
+
 0. definir un dataset (en base a los distintos sets que hay en el repositorio Selva Fría)
 1. creación de un programa isadora que permita disponer de un dataset
 2. reproducir algun elemento del dataset
@@ -23,7 +25,7 @@
 ### materiales
 1. [Hacia una estética investigativa](assets/haciaunaesteticainvestigativa.pdf)
 
-
+### proceso
 1. revisión [¿y propuesta de etiquetado relativo al material visual y audiovisual?] del material (poner en relación/tensión con los elementos del doc taxonomias y cartografía miró)
 2. selección y definición de un cuerpo de trabajo preliminar (documentos, drones cenitales, ¿otros?)
 3. ¿posible esquema de referencias y tratamientos con el material? primeros objetos visuales que permitan poner en relación las lecturas de documentos sobre esteticas investigativas y sus posibilidades de abordaje?
