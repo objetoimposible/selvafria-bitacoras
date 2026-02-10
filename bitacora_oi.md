@@ -7,7 +7,8 @@
 1. [Dispositivo audiovisual: pantallas Greenaway (Anabella Speziale), Pagina 117](assets/Imaginarios_Culturales.pdf)
 2. [Manual Isadora 3](assets/isadora-manual-es.pdf)
 3. [Foro Isadora Troikatronix](https://troikatronix.com/forum/)
-4. [video switcher actor y test!](assets/videoSwitcherActoryTest/)
+4. [Sobre la codificacion HAP de videos](https://support-troikatronix-com.translate.goog/support/solutions/articles/5000692142-optimizing-for-speed-making-isadora-run-faster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge)
+5. [video switcher actor y test!](assets/videoSwitcherActoryTest/)
 
 ### proceso
 
