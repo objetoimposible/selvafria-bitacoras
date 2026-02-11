@@ -9,6 +9,7 @@
 3. [Foro Isadora Troikatronix](https://troikatronix.com/forum/)
 4. [Sobre la codificacion HAP de videos](https://support-troikatronix-com.translate.goog/support/solutions/articles/5000692142-optimizing-for-speed-making-isadora-run-faster?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge)
 5. [video switcher actor y test!](assets/videoSwitcherActoryTest/)
+6. codificacion HAP via ffmpeg `for i in *.MOV; do ./ffmpeg -i "$i" -c:v hap -format hap_q "${i%.*}_HAP.mov"; done`
 
 ### proceso
 
@@ -25,12 +26,16 @@
 ## animación
 
 ### materiales
-1. [Hacia una estética investigativa](assets/haciaunaesteticainvestigativa.pdf)
+1. [Hacia una estética investigativa](assets/haciaunaesteticainvestigativa.pdf). Una estética libre de estética [página 16], Arte en la era de la posverdad: Hacia una estética investigativa [página 150].
+2. ![ANÍBAL EN RAFAH [2014], Página 79](assets/001.png)
+3. ![mapeo investigación practicas socioespaciales](assets/002.jpg)
+4. [Un flujo de animación posible (1) se obtiene la informacion geoposicionada en Google Maps, exportación en QGIS del mapa base como imagen (JPG) y de las marcas geoposicionadas como vectores (SVG), importación de mapa base y animación del vector en Davinci Resolve](https://www.youtube.com/watch?v=obTABTsWMlU)
 
 ### proceso
 1. revisión [¿y propuesta de etiquetado relativo al material visual y audiovisual?] del material (poner en relación/tensión con los elementos del doc taxonomias y cartografía miró)
 2. selección y definición de un cuerpo de trabajo preliminar (documentos, drones cenitales, ¿otros?)
-3. ¿posible esquema de referencias y tratamientos con el material? primeros objetos visuales que permitan poner en relación las lecturas de documentos sobre esteticas investigativas y sus posibilidades de abordaje?
+3. posible esquema de referencias y propuestas de tratamiento con el material
+4.  primeros objetos visuales que permitan poner en relación las lecturas de documentos sobre esteticas investigativas y sus posibilidades de abordaje?
 
 
 
